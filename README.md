@@ -40,7 +40,7 @@ It was great learning about Javascript's useful features such as destructuring a
 
 ## License
 
-    Copyright 2023 Sebastian Eyzaguirre
+    Copyright 2024 Sebastian Eyzaguirre
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
